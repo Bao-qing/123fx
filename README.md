@@ -16,9 +16,8 @@
 ## 安装
 
 1. 浏览器安装 Tampermonkey（油猴）。
-2. 在 Greasy Fork [123分享增强](https://greasyfork.org/zh-CN/scripts/465283-123fx) 安装脚本。
+2. 在 Greasy Fork [123分享社区增强](https://greasyfork.org/zh-CN/scripts/561055-123%E5%88%86%E4%BA%AB%E7%A4%BE%E5%8C%BA%E5%A2%9E%E5%BC%BA) 安装脚本。
 3. 或手动导入 `123fx.user.js`。
-
 
 ## 使用方法
 
@@ -29,6 +28,26 @@
 3. 页面右侧会出现浮动按钮。点击它：
    - 成功：按钮短暂显示 `OK` 并写入 Tampermonkey 存储。
    - 失败：按钮短暂显示 `Err`，说明未取到必要信息。
+<br>
+
+打开123网盘，找到要快捷保存的目录，找到并点击记录
+
+<img width="765" height="421" alt="image" src="https://github.com/user-attachments/assets/73986273-a11b-413a-8ead-5d9d9438527e" />
+
+出现绿色OK表示完成
+
+<img width="704" height="196" alt="image" src="https://github.com/user-attachments/assets/d9f4a889-8131-44cb-b64c-a38846db789a" />
+
+在论坛页面，有自动回复按钮
+
+
+<img width="723" height="88" alt="image" src="https://github.com/user-attachments/assets/b0b789ee-31fe-4bd3-adbe-e4aba9265736" />
+
+链接检查和一键保存到记录的目录的按钮
+
+
+<img width="741" height="159" alt="image" src="https://github.com/user-attachments/assets/b432b965-15d7-4f6c-86eb-c6c3c6685e6d" />
+
 
 脚本保存的内容（Tampermonkey `GM_setValue`）：
 
