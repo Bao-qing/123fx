@@ -1,5 +1,3 @@
-// Copyright (c) 2025 Bao-qing
-// SPDX-License-Identifier: MIT
 // ==UserScript==
 // @name         123分享社区增强
 // @namespace    http://tampermonkey.net/
@@ -15,8 +13,10 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
+// @license      MIT
 // ==/UserScript==
-
+// Copyright (c) 2025 Bao-qing
+// SPDX-License-Identifier: MIT
 
 (function () {
     'use strict';
