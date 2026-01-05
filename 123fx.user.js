@@ -15,8 +15,7 @@
 // @grant        GM_getValue
 // @license      MIT
 // ==/UserScript==
-// Copyright (c) 2025 Bao-qing
-// SPDX-License-Identifier: MIT
+
 
 (function () {
     'use strict';
